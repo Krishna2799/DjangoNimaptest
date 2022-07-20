@@ -1,0 +1,2 @@
+# DjangoNimaptest
+ test
